@@ -21,12 +21,12 @@ body{
 
 }
 
-/*The button banner
+/*The button banner*/
 .nav{
 
 }
 
-//Home page
+/*Home page*/
 h1{
 
 }
@@ -51,7 +51,7 @@ h1{
 }
 
 
-//Assignment
+/*Assignment*/
 .assignment_form{
 
 }
@@ -65,7 +65,7 @@ h1{
 .input_text{
 
 }
-//box behind the grading
+/*box behind the grading*/
 .rubric_score{
 
 }
@@ -81,4 +81,3 @@ td.person_info{
 svg.image{
 
 }
-*/
