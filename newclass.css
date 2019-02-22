@@ -30,22 +30,22 @@ body{
 float:right;
 }
 .day{
-  border-style: dotted;
-  border-width: 0px 0px 4px 0px;
-  margin: 5px;
-}
-.reading-box{
-  border-style: dashed;
-  border-width: 0px 0px 4px 0px;
-  margin: 5px;
-}
-.prep-box{
   border-style: double;
   border-width: 0px 0px 4px 0px;
   margin: 5px;
 }
+.reading-box{
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  margin: 5px;
+}
+.prep-box{
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  margin: 5px;
+}
 .lab-box{
-  border-style: inside;
-  border-width: 0px 0px 4px 0px;
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
   margin: 5px;
 }
