@@ -34,6 +34,5 @@ body{
   float:left;
   width: 30%;
   height:40%;
-  padding:20px;
-  overflow: auto;
+  overflow: scroll;
 }
