@@ -4,6 +4,7 @@ body{
   /*background-image: url("http://mediad.publicbroadcasting.net/p/wxxifm/files/styles/x_large/public/201809/outerspace_0.jpg");*/
   background-repeat: no-repeat;
   background-attachment: fixed;
+  overflow-x: scroll;
 }
 .person_image{
   width: 100px;
