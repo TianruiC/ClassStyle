@@ -31,21 +31,21 @@ float:right;
 }
 .day{
   border-style: dotted;
-  border-bottom: 2px;
+  border-width: 0px 0px 4px 0px;
   margin: 5px;
 }
 .reading-box{
   border-style: dashed;
-  border-bottom: 2px;
+  border-width: 0px 0px 4px 0px;
   margin: 5px;
 }
 .prep-box{
   border-style: double;
-  border-bottom: 2px;
+  border-width: 0px 0px 4px 0px;
   margin: 5px;
 }
 .lab-box{
   border-style: inside;
-  border-bottom: 2px;
+  border-width: 0px 0px 4px 0px;
   margin: 5px;
 }
