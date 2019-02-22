@@ -24,8 +24,20 @@ body{
   height:350px;
   overflow: auto;
   margin: 5px;
-  padding: 5px;
+  padding: 10px;
 }
 .nav{
 float:right;
+}
+.day{
+  border-style: dotted;
+}
+.reading-box{
+  border-style: dashed;
+}
+.prep-box{
+  border-style: double;
+}
+.lab-box{
+  border-style: inside;
 }
