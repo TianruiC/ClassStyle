@@ -22,7 +22,7 @@ body{
   float:left;
   width: 30%;
   height:350px;
-  overflow: scroll;
+  overflow: auto;
   margin: 5px;
   padding: 5px;
 }
