@@ -14,11 +14,11 @@ body{
     border-width: 5px;
 }
 .day-box PREP{
-
+border-style: solid;
 }
 .day-box CURRENT{
-
+border-style: solid;
 }
 .day-box COMPLETED{
-
+border-style: solid;
 }
