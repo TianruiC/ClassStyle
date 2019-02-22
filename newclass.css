@@ -44,6 +44,11 @@ float:right;
   border-width: 0px 0px 2px 0px;
   margin: 5px;
 }
+.assignment_link{
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  margin: 5px;
+}
 .lab-box{
   border-style: solid;
   border-width: 0px 0px 0px 0px;
