@@ -31,13 +31,17 @@ float:right;
 }
 .day{
   border-style: dotted;
+  margin: 5px;
 }
 .reading-box{
   border-style: dashed;
+  margin: 5px;
 }
 .prep-box{
   border-style: double;
+  margin: 5px;
 }
 .lab-box{
   border-style: inside;
+  margin: 5px;
 }
