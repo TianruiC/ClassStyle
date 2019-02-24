@@ -3,6 +3,7 @@
 div.header {
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
+  background-size: cover;
 }
 div.title  {
     font-family: 'Bangers', cursive;
