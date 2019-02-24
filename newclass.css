@@ -31,6 +31,8 @@ body{
 .username{
   background-color: black;
   color:yellow;
+  width:100px;
+  height: auto;
 }
 
 .day-box{
