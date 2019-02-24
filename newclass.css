@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers');
 
+div.header {
+  background-image: 'batmanWallPaper.jpg';
+  background-repeat: repeat-x;
+}
+div.title  {
+    font-family: 'Bangers', cursive;
+  text-align: center;
+}
 h1 {
   font-family: 'Bangers', cursive;
   text-align: center;
