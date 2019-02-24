@@ -23,7 +23,7 @@ body{
   width: 100px;
   height: auto;
 }
-body > div.person_info{
+.person_info{
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
