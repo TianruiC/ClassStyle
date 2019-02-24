@@ -28,6 +28,10 @@ body{
   background-repeat: repeat-x;
   background-size: auto 100%;
 }
+.username{
+  background-color: black;
+  color:yellow;
+}
 
 .day-box{
   border-style: solid;
