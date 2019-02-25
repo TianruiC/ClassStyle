@@ -32,7 +32,7 @@ body{
   padding-top: 20px;
   background-image: url('batmanOldWork.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% auto;
   z-index: 1;
 }
 /*.nav{
