@@ -85,7 +85,7 @@ div.partners > div.person_image{
   margin: 5px;
   float:right;
 }
-.day:nth-child(6n+1){
+.day-box:nth-child(6n+1){
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
