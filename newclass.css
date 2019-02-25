@@ -27,7 +27,6 @@ div.header > div.person_info{
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
-  margin-left: 140px;
   margin-left: 160px;
 }
 .username{
@@ -84,7 +83,7 @@ div.partners > div.person_image{
 }
 /*six image*/
 .day-box:nth-child(6n+1){
-  background-image: url('batmanWallPaper.jpg');
+  background-image: url('bane.png');
   background-repeat: repeat-x;
   background-size: auto 100%;
 }
@@ -120,7 +119,7 @@ div.partners > div.person_image{
   background-size: 100% 100%;
 }
 .day-box:nth-child(6n+5){
-  background-image: url('pow.jpg');
+  background-image: url('twoface.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
 }
@@ -129,7 +128,7 @@ div.partners > div.person_image{
   background-size: 100% 100%;
 }
 .day-box:nth-child(6n+0){
-  background-image: url('batmanWallPaper.jpg');
+  background-image: url('mrFreeze.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
 }
