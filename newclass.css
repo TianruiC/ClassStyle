@@ -85,7 +85,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+1){
   background-image: url('bane.png');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+1):hover{
   background-image: url('pow.jpg');
@@ -94,7 +94,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+2){
   background-image: url('joker.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+2):hover{
   background-image: url('pow.jpg');
@@ -103,7 +103,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+3){
   background-image: url('penguin.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+3):hover{
   background-image: url('pow.jpg');
@@ -112,7 +112,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+4){
   background-image: url('riddler.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+4):hover{
   background-image: url('pow.jpg');
@@ -121,7 +121,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+5){
   background-image: url('twoface.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+5):hover{
   background-image: url('pow.jpg');
@@ -130,7 +130,7 @@ div.partners > div.person_image{
 .day-box:nth-child(6n+0){
   background-image: url('mrFreeze.jpg');
   background-repeat: repeat-x;
-  background-size: auto 100%;
+  background-size: 100% 100%;
 }
 .day-box:nth-child(6n+0):hover{
   background-image: url('pow.jpg');
