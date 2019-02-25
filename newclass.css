@@ -48,7 +48,6 @@ div.header > div.person_info{
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
-  margin-left: 160px;
   z-index: 1;
 }
 .username{
