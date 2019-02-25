@@ -93,9 +93,9 @@ div.partners > div.person_image{
   color:#F5FFFA;
 }
 .day{
-  border-style: double;
+  /*border-style: double;
   border-width: 0px 0px 6px 0px;
-  margin: 5px;
+  margin: 5px;*/
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
@@ -157,17 +157,17 @@ div.partners > div.person_image{
 }
 
 .reading-box{
-  border-style: solid;
+  /*border-style: solid;
   border-width: 0px 0px 2px 0px;
-  margin: 5px;
+  margin: 5px;*/
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
 .prep-box{
-  border-style: solid;
+  /*border-style: solid;
   border-width: 0px 0px 2px 0px;
-  margin: 5px;
+  margin: 5px;*/
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
@@ -178,9 +178,10 @@ div.partners > div.person_image{
   margin: 5px;
 }*/
 .lab-box{
+  /*
   border-style: solid;
   border-width: 0px 0px 0px 0px;
-  margin: 5px;
+  margin: 5px;*/
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
