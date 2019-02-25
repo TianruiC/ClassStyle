@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 div.header {
 
@@ -20,7 +19,6 @@ body{
   /*background-image: url("http://mediad.publicbroadcasting.net/p/wxxifm/files/styles/x_large/public/201809/outerspace_0.jpg");*/
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Open Sans', sans-serif;
   /*overflow-x: scroll;
   overflow-y: hidden;*/
 }
@@ -84,6 +82,7 @@ div.partners > div.person_image{
 .day-box{
   border-style: solid;
   border-width: 5px;
+  border-color: black;
   float:left;
   width: 25%;
   height:350px;
