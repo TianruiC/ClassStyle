@@ -86,6 +86,7 @@ div.partners > div.person_image{
   border-style: double;
   border-width: 0px 0px 6px 0px;
   margin: 5px;
+  float:right;
 }
 .reading-box{
   border-style: solid;
