@@ -44,6 +44,7 @@ body{
   width: 100px;
   height: auto;
 }
+/*
 div.header > div.person_info{
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
@@ -58,7 +59,7 @@ div.header > div.person_info{
 }
 .partners{
 
-}
+}*/
 /*
 div.partners > div.person_image{
   float: right;
