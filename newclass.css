@@ -92,14 +92,6 @@ div.partners > div.person_image{
 .day-box> a {
   color:#F5FFFA;
 }
-.day{
-  /*border-style: double;
-  border-width: 0px 0px 6px 0px;*/
-  margin: 5px;
-  background-color: rgb(185,179,175);
-  opacity: 0.6;
-  filter:alpha(opacity=60);
-}
 /*six image*/
 .day-box:nth-child(6n+1){
   background-image: url('bane.png');
@@ -156,6 +148,17 @@ div.partners > div.person_image{
   background-size: 100% 100%;
 }
 
+.day{
+  /*border-style: double;
+  border-width: 0px 0px 6px 0px;*/
+  margin: 5px;
+  background-color: rgb(185,179,175);
+  opacity: 0.6;
+  filter:alpha(opacity=60);
+}
+.day> a {
+  color:#F5FFFA;
+}
 .reading-box{
   /*border-style: solid;
   border-width: 0px 0px 2px 0px;*/
@@ -164,6 +167,9 @@ div.partners > div.person_image{
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
+.reading-box> a {
+  color:#F5FFFA;
+}
 .prep-box{
   /*border-style: solid;
   border-width: 0px 0px 2px 0px;*/
@@ -171,6 +177,9 @@ div.partners > div.person_image{
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
+}
+.prep-box> a {
+  color:#F5FFFA;
 }
 /*.assignment_link{
   border-style: solid;
@@ -185,4 +194,7 @@ div.partners > div.person_image{
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
+}
+.lab-box> a {
+  color:#F5FFFA;
 }
