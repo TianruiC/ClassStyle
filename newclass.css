@@ -61,7 +61,10 @@ div.header > div.person_info{
   height: auto;
 }
 .partners{
-
+  background-color: black;
+  color:yellow;
+  width:100px;
+  height: auto;
 }
 /*
 div.partners > div.person_image{
