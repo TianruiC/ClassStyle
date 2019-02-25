@@ -87,7 +87,10 @@ div.partners > div.person_image{
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
   float:right;
-  color:	#F5FFFA;
+  color:#F5FFFA;
+}
+.day-box> a {
+  color:#F5FFFA;
 }
 .day{
   border-style: double;
