@@ -56,9 +56,7 @@ div.header > div.person_info{
   height: auto;
 }
 .partners{
-  position:absolute;
-  top:0;
-  right:0;
+
 }
 /*
 div.partners > div.person_image{
