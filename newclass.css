@@ -128,7 +128,7 @@ div.partners > div.person_image{
   background-size: 100% 100%;
 }
 .day-box:nth-child(6n+0){
-  background-image: url('mrFreeze.jpg');
+  background-image: url('mrFreeze.png');
   background-repeat: repeat-x;
   background-size: 100% 100%;
 }
