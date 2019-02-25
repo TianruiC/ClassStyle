@@ -199,3 +199,9 @@ div.partners > div.person_image{
 .lab-box> a {
   color:#F5FFFA;
 }
+.grading-box{
+  margin: 5px;
+  background-color: rgb(185,179,175);
+  opacity: 0.6;
+  filter:alpha(opacity=60);
+}
