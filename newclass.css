@@ -96,6 +96,9 @@ div.partners > div.person_image{
   border-style: double;
   border-width: 0px 0px 6px 0px;
   margin: 5px;
+  background-color: rgb(185,179,175);
+  opacity: 0.6;
+  filter:alpha(opacity=60);
 }
 /*six image*/
 .day-box:nth-child(6n+1){
@@ -165,6 +168,9 @@ div.partners > div.person_image{
   border-style: solid;
   border-width: 0px 0px 2px 0px;
   margin: 5px;
+  background-color: rgb(185,179,175);
+  opacity: 0.6;
+  filter:alpha(opacity=60);
 }
 /*.assignment_link{
   border-style: solid;
@@ -175,4 +181,7 @@ div.partners > div.person_image{
   border-style: solid;
   border-width: 0px 0px 0px 0px;
   margin: 5px;
+  background-color: rgb(185,179,175);
+  opacity: 0.6;
+  filter:alpha(opacity=60);
 }
