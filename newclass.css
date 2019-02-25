@@ -34,7 +34,10 @@ div.header > div.person_info{
   width:100px;
   height: auto;
 }
-
+.nav{
+  background-color: black;
+  color:yellow;
+}
 .day-box{
   border-style: solid;
   border-width: 5px;
