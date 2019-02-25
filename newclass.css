@@ -94,8 +94,9 @@ div.partners > div.person_image{
   margin: 10px;
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
-  float:right;
+  float:left;
   color:#F5FFFA;
+
 }
 .day-box> a {
   color:#F5FFFA;
