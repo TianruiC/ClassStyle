@@ -59,6 +59,7 @@ div.partners > div.person_image{
 }
 .day-box:hover{
   background-image: url('pow.jpg');
+  background-size: 100% 100%;
 }
 .nav{
   /*float:right;*/
