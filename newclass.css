@@ -10,6 +10,7 @@ div.title  {
 h1 {
   font-family: 'Bangers', cursive;
   text-align: center;
+  font-size: 100px;
 }
 body{
   background-color: rgb(185,179,175);
