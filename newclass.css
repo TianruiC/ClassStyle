@@ -57,6 +57,9 @@ div.partners > div.person_image{
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
 }
+.day-box:hover{
+  background-image: url('batmanWallPaper.jpg');
+}
 .nav{
   /*float:right;*/
   width:100%
