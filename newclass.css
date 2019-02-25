@@ -94,8 +94,8 @@ div.partners > div.person_image{
 }
 .day{
   /*border-style: double;
-  border-width: 0px 0px 6px 0px;
-  margin: 5px;*/
+  border-width: 0px 0px 6px 0px;*/
+  margin: 5px;
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
