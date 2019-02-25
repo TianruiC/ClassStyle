@@ -27,7 +27,6 @@ div.header > div.person_info{
   background-image: url('batmanWallPaper.jpg');
   background-repeat: repeat-x;
   background-size: auto 100%;
-  float:left;
 }
 .username{
   background-color: black;
@@ -40,7 +39,9 @@ div.header > div.person_info{
   color:yellow;
 }
 .partners{
-float:right;
+  background-image: url('batmanWallPaper.jpg');
+  background-repeat: repeat-x;
+  background-size: auto 100%;
 }
 .day-box{
   border-style: solid;
