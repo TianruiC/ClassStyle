@@ -43,6 +43,9 @@ div.header > div.person_info{
   top:0;
   right:0;
 }
+div.partners > div.person_image{
+  float: right;
+}
 .day-box{
   border-style: solid;
   border-width: 5px;
