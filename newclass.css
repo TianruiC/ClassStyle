@@ -30,10 +30,6 @@ body{
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
-  background-image: url('batmanOldWork.jpg');
-  background-repeat: repeat-x;
-  background-size: 100% auto;
-  z-index: 1;
 }
 /*.nav{
   background-image: url('batmanOldWork.jpg');
