@@ -56,9 +56,6 @@ div.partners > div.person_image{
   margin: 10px;
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
-  background-image: url('batmanWallPaper.jpg');
-  background-repeat: repeat-x;
-  background-size: auto 100%;
 }
 .day-box:hover{
   background-image: url('pow.jpg');
@@ -87,6 +84,11 @@ div.partners > div.person_image{
   border-width: 0px 0px 6px 0px;
   margin: 5px;
   float:right;
+}
+.day:nth-child(6n+1){
+  background-image: url('batmanWallPaper.jpg');
+  background-repeat: repeat-x;
+  background-size: auto 100%;
 }
 .reading-box{
   border-style: solid;
