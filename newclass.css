@@ -158,8 +158,8 @@ div.partners > div.person_image{
 
 .reading-box{
   /*border-style: solid;
-  border-width: 0px 0px 2px 0px;
-  margin: 5px;*/
+  border-width: 0px 0px 2px 0px;*/
+  margin: 5px;
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
