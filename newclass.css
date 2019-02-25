@@ -36,6 +36,7 @@ body{
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+
 }
 /*.nav{
   background-image: url('batmanOldWork.jpg');
@@ -122,6 +123,7 @@ div.partners > div.person_image{
   background-image: url('penguin.jpg');
   background-repeat: repeat-x;
   background-size: 100% 100%;
+  margin-left: 160px;
 }
 .day-box:nth-child(6n+3):hover{
   background-image: url('pow.jpg');
@@ -149,6 +151,7 @@ div.partners > div.person_image{
   background-image: url('mrFreeze.png');
   background-repeat: repeat-x;
   background-size: 100% 100%;
+  margin-left: 160px;
 }
 .day-box:nth-child(6n+0):hover{
   background-image: url('pow.jpg');
