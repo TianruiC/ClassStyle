@@ -19,6 +19,27 @@ body{
   /*overflow-x: scroll;
   overflow-y: hidden;*/
 }
+.header{
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.nav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+.nav a:hover {
+  color: yellow;
+}
 .person_image{
   width: 100px;
   height: auto;
@@ -55,27 +76,6 @@ div.partners > div.person_image{
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
   float:right;
-}
-.header{
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-.nav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-}
-.nav a:hover {
-  color: yellow;
 }
 .day{
   border-style: double;
