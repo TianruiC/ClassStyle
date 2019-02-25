@@ -58,7 +58,7 @@ div.partners > div.person_image{
   box-shadow: 10px 10px 5px grey;
     float:right;
 }
-.day-box:hover{
+.day-box:nth-child(6n+1):hover{
   background-image: url('pow.jpg');
   background-size: 100% 100%;
 }
