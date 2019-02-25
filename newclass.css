@@ -74,7 +74,7 @@ div.partners > div.person_image{
   display: block;
 }
 .nav a:hover {
-  color: #064579;
+  color: yellow;
 }
 .day{
   border-style: double;
