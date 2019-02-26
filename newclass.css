@@ -215,3 +215,6 @@ div.partners > div.person_image{
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
+form{
+  magrin-left:13%;
+}
