@@ -254,6 +254,6 @@ body > .assignment-title{
 h3{
   margin-left:13%;
 }
-td{
+table.grade-table>td{
   overflow: auto;
 }
