@@ -230,7 +230,7 @@ a.assignment_link{
 .assignment_form{
   margin-left:13%;
 }
-.assignment-title{
+body > .assignment-title{
   font-family: 'Bangers', cursive;
   margin-left:13%;
   font-size: 30px;
