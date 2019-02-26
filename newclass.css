@@ -97,11 +97,11 @@ div.partners > div.person_image{
   padding: 10px;
   box-shadow: 10px 10px 5px grey;
   float:left;
-  color:#F5FFFA;
+  color:white;
 
 }
 .day-box> a {
-  color:#F5FFFA;
+  color:white;
 }
 /*six image*/
 .day-box:nth-child(6n+1){
@@ -174,7 +174,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .day> a {
-  color:#F5FFFA;
+  color:white;
 }
 .reading-box{
   /*border-style: solid;
@@ -188,7 +188,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .reading> a {
-  color:#F5FFFA;
+  color:white;
 }
 .prep-box{
   /*border-style: solid;
@@ -202,7 +202,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .prep-box> a {
-  color:#F5FFFA;
+  color:white;
 }
 /*.assignment_link{
   border-style: solid;
@@ -222,7 +222,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .lab-box> a {
-  color:#F5FFFA;
+  color:white;
 }
 .grading-box{
   margin: 5px;
