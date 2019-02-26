@@ -264,3 +264,6 @@ h3{
 table.grade-table>td{
   overflow: auto;
 }
+.rubric_score{
+  padding: 5px;
+}
