@@ -231,6 +231,7 @@ a.assignment_link{
   margin-left:13%;
 }
 .assignment-title{
+  font-family: 'Bangers', cursive;
   margin-left:13%;
   font-size: 30px;
   padding: 10px;
@@ -238,9 +239,11 @@ a.assignment_link{
 }
 .prompt{
   margin-left:13%;
+  padding: 5px;
 }
 .view_text{
   margin-left:13%;
+  padding: 5px;
 }
 .grade-table{
   margin-left:13%;
