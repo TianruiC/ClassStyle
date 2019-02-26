@@ -226,7 +226,7 @@ div.partners > div.person_image{
 }
 .grading-box{
   margin: 5px;
-  background-color: rgb(185,179,175);
+  background-color: white;
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
