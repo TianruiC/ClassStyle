@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans');
 
 div.header {
 
@@ -20,7 +21,7 @@ body{
   /*background-image: url("http://mediad.publicbroadcasting.net/p/wxxifm/files/styles/x_large/public/201809/outerspace_0.jpg");*/
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Open Sans', sans-serif;
+ font-family: 'Bubblegum Sans', cursive;
 
   /*overflow-x: scroll;
   overflow-y: hidden;*/
