@@ -127,6 +127,7 @@ div.partners > div.person_image{
   background-repeat: repeat-x;
   background-size: 100% 100%;
   margin-left: 13%;
+
 }
 .day-box:nth-child(6n+3):hover{
   background-image: url('pow.jpg');
@@ -171,7 +172,6 @@ div.partners > div.person_image{
 }
 .day:hover{
   background-color: black;
-
 }
 .day> a {
   color:#F5FFFA;
@@ -184,6 +184,9 @@ div.partners > div.person_image{
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
+.reading-box:hover{
+  background-color: black;
+}
 .reading> a {
   color:#F5FFFA;
 }
@@ -194,6 +197,9 @@ div.partners > div.person_image{
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
+}
+.prep-box:hover{
+  background-color: black;
 }
 .prep-box> a {
   color:#F5FFFA;
@@ -212,6 +218,9 @@ div.partners > div.person_image{
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
+.lab-box{
+  background-color: black;
+}
 .lab-box> a {
   color:#F5FFFA;
 }
@@ -220,6 +229,9 @@ div.partners > div.person_image{
   background-color: rgb(185,179,175);
   opacity: 0.6;
   filter:alpha(opacity=60);
+}
+.grading-box:hover{
+  background-color: black;
 }
 form{
   margin-left:13%;
