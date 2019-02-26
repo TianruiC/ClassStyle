@@ -202,6 +202,7 @@ div.partners > div.person_image{
 }
 .prep-box:hover{
   background-color: black;
+  color:white;
 }
 .prep-box> a {
   color:grey;
@@ -222,6 +223,7 @@ div.partners > div.person_image{
 }
 .lab-box:hover{
   background-color: black;
+  color:white;
 }
 .lab-box> a {
   color:grey;
@@ -234,6 +236,7 @@ div.partners > div.person_image{
 }
 .grading-box:hover{
   background-color: black;
+  color:white;
 }
 .grading-box>a{
   color:grey;
