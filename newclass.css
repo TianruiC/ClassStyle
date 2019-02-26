@@ -254,3 +254,6 @@ body > .assignment-title{
 h3{
   margin-left:13%;
 }
+td{
+  overflow: auto;
+}
