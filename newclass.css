@@ -216,11 +216,14 @@ div.partners > div.person_image{
   filter:alpha(opacity=60);
 }
 form{
-  magrin-left:13%;
+  margin-left:13%;
 }
 table{
   margin-left: 13%;
 }
 svg{
-  magrin-left:13%;
+  margin-left:13%;
+}
+a.assignment_link{
+
 }
