@@ -172,6 +172,7 @@ div.partners > div.person_image{
 }
 .day:hover{
   background-color: black;
+  color:white;
 }
 .day> a {
   color:grey;
