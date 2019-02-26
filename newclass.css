@@ -17,6 +17,7 @@ h1 {
   font-size: 60px;
   background-image: url(batman.png);
   background-size: auto 100%;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 body{
   background-color: rgb(185,179,175);
