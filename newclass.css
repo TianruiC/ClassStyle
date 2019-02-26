@@ -187,6 +187,7 @@ div.partners > div.person_image{
 }
 .reading-box:hover{
   background-color: black;
+  color:white;
 }
 .reading> a {
   color:grey;
