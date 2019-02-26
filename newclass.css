@@ -310,3 +310,9 @@ table.grade-table>td{
 .rubric_score{
   padding: 5px;
 }
+.account_form label{
+  display:block;
+  padding-top: 20px;}
+
+.account_form input{
+  display:block;}
