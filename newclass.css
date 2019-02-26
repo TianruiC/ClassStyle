@@ -220,6 +220,7 @@ div.partners > div.person_image{
 }
 .lab-box:hover{
   background-color: black;
+  color:red;
 }
 .lab-box> a {
   color:white;
@@ -232,7 +233,6 @@ div.partners > div.person_image{
 }
 .grading-box:hover{
   background-color: black;
-  color:red;
 }
 .grading-box>a{
   color:white;
