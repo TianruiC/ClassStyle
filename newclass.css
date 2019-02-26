@@ -156,6 +156,10 @@ div.partners > div.person_image{
   opacity: 0.6;
   filter:alpha(opacity=60);
 }
+.day:hover{
+  background-color: black;
+
+}
 .day> a {
   color:#F5FFFA;
 }
