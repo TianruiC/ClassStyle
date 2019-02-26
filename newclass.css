@@ -239,8 +239,14 @@ body > .assignment-title{
   margin-left:13%;
   font-size: 30px;
   padding: 10px;
-
 }
+form > .assingment-title{
+  font-family: 'Bangers', cursive;
+  margin-left:13%;
+  font-size: 30px;
+  padding: 10px;
+}
+
 .prompt{
   margin-left:13%;
   padding: 5px;
