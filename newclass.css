@@ -280,7 +280,7 @@ body > .assignment-title{
   font-size: 40px;
   padding: 10px;
 }
-body > .assingment-title{
+.assignment_form > .assingment-title{
   font-family: 'Bangers', cursive;
   margin-left:13%;
   font-size: 40px;
