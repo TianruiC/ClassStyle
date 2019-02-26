@@ -233,6 +233,9 @@ div.partners > div.person_image{
 .grading-box:hover{
   background-color: black;
 }
+.grading-box>a{
+  color:white;
+}
 form{
   margin-left:13%;
 }
