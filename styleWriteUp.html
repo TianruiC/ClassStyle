@@ -1,0 +1,48 @@
+<html>
+<header>
+<title> Batman Theme Write Up</title>
+<link rel="stylesheet" type="text/css" href="https://tianruic.github.io/ClassStyle/newclass.css">
+<style>
+  h4 {
+  color: yellow;
+  }
+  </style>
+</header>
+<body>
+<h1>Batman Theme Write Up</h1>
+<h4>Intro:</h4>
+<p> Our theme is inspired by the batman comic books.  We wanted our page to have an old nostalgic batman feel while also including 
+element of style that “adds life to the pages.”  Below we detail some of our major design features and challenges of our webpage’s design.
+</p>
+<h4>Design Features:</h4>
+<ul>
+<li>Colors and Font:  For our colors, we stuck to mainly black, yellow, and grey colors traditionally associated with Batman 
+(I.E. the background, links, and title elements).  Additionally, we used two Google fonts to create the iconic “comic book feel.”  
+The first was “Bangers” which reminded me of the style used for many batman comic overs and is featured in our title.  The second was 
+“bubblegum sans” which while slightly more Halloween-ish in mood, reminded us of many of the text boxes or speech bubbles within the pages
+of comics and was displayed as the main text of our body.</li>
+<li>Side Bar: We used relative position on our side bar to create a dynamic bar to say with the reader the entire time.  
+Though not directly correlated with the theme, it helps breath more life into the page while also enhancing functionality.</li>
+<li>Villain boxes:  This is our proudest, and most distinct element of the webpage.  Inspired by comic book panels, each box is filled 
+with a different villain from the Batman universe  By using the hover selector, each time you hover over a day box the villian’s image 
+is changed to the pow onomatopoeia.  We like to image that each time you defeat the villain (changing their image to pow!) it is similar 
+to each student’s “defeat” of the homework/assignments.  We also manipulate the text colors and each div’s background color to maximize 
+readability.</li>
+</ul>
+<h4>Challenges/Questions:</h4>
+<p>The biggest challenge we have while making the project was having a sidebar that employs relative positioning on the side while pushing
+all other content to the right, so the sidebar is not superimposed over it.  Normally in web development, you would simply use a div to 
+encapsulate all elements of the html that are not in the sidebar and increase it’s left margin to prevent this situation.  Unfortunately 
+had to work within the parameters of the pre-existing html structure and adjust the margins for each element on the page.  
+This was particularly challenging for the “day boxes” but under Dr. Bradshaw’s direction we were able to re-use or nth-child method to 
+adjust the margins of the 1st and 4th boxes allowing to get the effect we desired.  While we tried to research it, we were unable to find 
+a method to set the sidebar as the foremost element and push everything outside if it to the right.  If such an attribute exists, it 
+would be useful to know and would have saved us a lot of time.</p>
+<p>attribute exists, it would be useful to know and would have saved us a lot of time.
+We also had trouble implementing the text colors over our images.  While we recognize that the images sometimes make the 
+text slightly harder to read, we felt that including the pictures of the villains was worth sacrificing some of the ease of 
+readability to achieve the desired theme.  To maximize readability, we had to employee multiple :hover selectors and change 
+the colors of each box-individually.   We wonder if a technique or attribute exists that would make finding the color to 
+optimize readability more easily.</p>
+</body>
+</html>
