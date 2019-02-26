@@ -232,7 +232,9 @@ a.assignment_link{
 }
 .assignment-title{
   margin-left:13%;
-  font-size: :20px;
+  font-size: 30px;
+  padding: 10px;
+
 }
 .prompt{
   margin-left:13%;
