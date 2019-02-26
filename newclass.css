@@ -174,7 +174,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .day> a {
-  color:white;
+  color:grey;
 }
 .reading-box{
   /*border-style: solid;
@@ -186,10 +186,9 @@ div.partners > div.person_image{
 }
 .reading-box:hover{
   background-color: black;
-  color:red;
 }
 .reading> a {
-  color:white;
+  color:grey;
 }
 .prep-box{
   /*border-style: solid;
@@ -203,7 +202,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .prep-box> a {
-  color:white;
+  color:grey;
 }
 /*.assignment_link{
   border-style: solid;
@@ -223,7 +222,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .lab-box> a {
-  color:white;
+  color:grey;
 }
 .grading-box{
   margin: 5px;
@@ -235,7 +234,7 @@ div.partners > div.person_image{
   background-color: black;
 }
 .grading-box>a{
-  color:white;
+  color:grey;
 }
 form{
   margin-left:13%;
