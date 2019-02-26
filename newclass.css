@@ -28,7 +28,7 @@ body{
 
 .header{
   height: 100%;
-  width: 160px;
+  width: 13%;
   position: fixed;
   top: 0;
   left: 0;
@@ -124,7 +124,7 @@ div.partners > div.person_image{
   background-image: url('penguin.jpg');
   background-repeat: repeat-x;
   background-size: 100% 100%;
-  margin-left: 160px;
+  margin-left: 13%;
 }
 .day-box:nth-child(6n+3):hover{
   background-image: url('pow.jpg');
@@ -152,7 +152,7 @@ div.partners > div.person_image{
   background-image: url('mrFreeze.png');
   background-repeat: repeat-x;
   background-size: 100% 100%;
-  margin-left: 160px;
+  margin-left: 13%;
 }
 .day-box:nth-child(6n+0):hover{
   background-image: url('pow.jpg');
