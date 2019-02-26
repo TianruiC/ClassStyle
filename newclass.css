@@ -177,6 +177,9 @@ div.partners > div.person_image{
 .day> a {
   color:grey;
 }
+.day>a:hover{
+  color:white;
+}
 .reading-box{
   /*border-style: solid;
   border-width: 0px 0px 2px 0px;*/
@@ -192,6 +195,9 @@ div.partners > div.person_image{
 .reading> a {
   color:grey;
 }
+.reading>a:hover{
+  color:white;
+}
 .prep-box{
   /*border-style: solid;
   border-width: 0px 0px 2px 0px;*/
@@ -206,6 +212,9 @@ div.partners > div.person_image{
 }
 .prep-box> a {
   color:grey;
+}
+.prep-box>a:hover{
+  color:white;
 }
 /*.assignment_link{
   border-style: solid;
@@ -228,6 +237,9 @@ div.partners > div.person_image{
 .lab-box> a {
   color:grey;
 }
+.lab-box>a:hover{
+  color:white;
+}
 .grading-box{
   margin: 5px;
   background-color: white;
@@ -240,6 +252,9 @@ div.partners > div.person_image{
 }
 .grading-box>a{
   color:grey;
+}
+.grading-box>a:hover{
+  color:white;
 }
 form{
   margin-left:13%;
