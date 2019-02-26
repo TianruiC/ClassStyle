@@ -186,6 +186,7 @@ div.partners > div.person_image{
 }
 .reading-box:hover{
   background-color: black;
+  color:red;
 }
 .reading> a {
   color:white;
@@ -220,7 +221,6 @@ div.partners > div.person_image{
 }
 .lab-box:hover{
   background-color: black;
-  color:red;
 }
 .lab-box> a {
   color:white;
