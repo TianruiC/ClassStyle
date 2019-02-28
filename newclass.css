@@ -316,6 +316,6 @@ table.grade-table>td{
 
 .account_form input{
   display:block;}
-body > .assignment_link{
+body > a> .assignment_link{
   margin-left:13%;
 }
